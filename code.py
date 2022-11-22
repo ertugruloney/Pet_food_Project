@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 19 00:37:38 2022
-
-@author: ertugruloney
-"""
 from gurobipy import GRB
 import gurobipy as gp
 import pandas as pd
